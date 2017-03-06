@@ -1,0 +1,18 @@
+#logo_responsive {
+  display: block;
+  max-width: 20%;
+  height: auto;
+}
+/*#skills {
+  display: block;
+  max-width: 30%;
+  height: auto;
+}*/
+#services {
+  background-color: white;
+}
+#hs {
+  display: block;
+  max-width: 20%;
+  height: auto
+}
